@@ -29,3 +29,39 @@ https://arxiv.org/abs/1703.06870
 
 https://github.com/matterport/Mask_RCNN
 
+# Milestones:
+September 28: 
+Finished project proposal. Presented plan on October 1st to the class. 
+
+October 12:
+Sara - 
+Rosemary - explore the pre-trained imagnet models https://github.com/cvjena/cnn-models, read https://arxiv.org/pdf/1612.01452.pdf, figure out how to install caffe to run the model, know what should be the format of the input data if not stated in the above link, selected a model to download: AlexNet_cvgj first, apply model to a subset of images provided by sara
+Tasmia - 
+Zach - 
+
+October 26:
+Sara - 
+Rosemary - Meet with Professor Mockus to discuss mean.js app goals. Change the code in /opt/mean.js/public/js/scr.js to add a tracking feature for visitation to images that are viewed but no label/tag was added. Look at the code where the image is loaded to add this information to the db. 
+Goal: Apply to all 1M images (get final layer) and classify according to weather, gender, time from deposition, scale of the image: would such naive approach allow prescreening of images by scale, presence of feature, etc?
+Tasmia - 
+Zach - 
+
+November 9:
+Sara - 
+Rosemary - 
+Tasmia - 
+Zach - 
+
+November 23:
+Sara - 
+Rosemary - 
+Tasmia - 
+Zach - 
+
+November 30:
+Sara - 
+Rosemary - 
+Tasmia - 
+Zach - 
+
+Final Presentation on: 
